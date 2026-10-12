@@ -1,8 +1,7 @@
-# Bridge — social preview
+# Bridge — Harbor Blue preview
 
-Preview of the `social` branch of [bridgeappllc/bridge-demo](https://github.com/bridgeappllc/bridge-demo/tree/social):
-public profiles with @usernames, People search, friend requests, friends' libraries,
-library privacy (Everyone / Friends only / Only me) and a Discover feed from friends.
+Preview of the `harbor-blue` branch of [bridgeappllc/bridge-demo](https://github.com/bridgeappllc/bridge-demo/tree/harbor-blue):
+the Harbor Blue palette and Logo 3 "Suspension" (new app icon, favicon, nav glyph, legal pages).
 
 Live preview: https://bridgeappllc.github.io/bridge-preview/
 
